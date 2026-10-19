@@ -1,2 +1,2 @@
-date,time,observation,temp
-19/10/2026,10:01,water,cold
+date,time,observation,temp,why,mood
+19/10/2026,10:01,water,cold,thirsty,5
