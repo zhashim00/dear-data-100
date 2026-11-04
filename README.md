@@ -9,10 +9,10 @@ One row per day, including rest days.
 | Column       | Meaning                                                          |
 |--------------|------------------------------------------------------------------|
 | date         | yyyy-mm-dd                                                       |
-| day_type     | arms, chest_back, legs or rest (what my plan said for that day)  |
-| activity     | what I actually did: [list your values, e.g. lifting, running]   |
-| duration_min | length of the session in whole minutes (number only)             |
-| effort       | 1 to 10, where [define 1 and 10 in your own words]               |
+| day_type     | arms, chest_back, legs or rest  |
+| activity     | what I actually did  |
+| duration_min | length of the session in whole minutes         
+| effort       | 1 to 10, where        
 
 ## Data source
 
