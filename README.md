@@ -16,11 +16,5 @@ One row per day, including rest days.
 
 ## Data source
 
-[One or two honest sentences: where the numbers come from (for
-example, my Hevy workout log), when I started recording, and
-whether any rows were entered after the day they happened.]
+I use an app called hevy to track all my workouts and strava to track my running and basketball
 
-## Notes
-
-[Anything a reader needs to interpret the data, e.g. what counts as
-a rest day, or how I handled a missed day.]
